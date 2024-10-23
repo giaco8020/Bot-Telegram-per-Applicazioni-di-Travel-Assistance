@@ -4,7 +4,7 @@
 
 ### 📌 Objective
 
-The aim of this project is to develop a Telegram bot to facilitate the search for travel tickets from major providers such as Trenitalia, Itabus, and Flixbus. This bot aims to provide users with a simple and intuitive platform to find and compare the best travel options.
+The objective of this project is to develop a Telegram bot that facilitates the search for travel tickets from major providers such as Trenitalia, Itabus, and Flixbus. The bot aims to provide users with a simple and intuitive platform to find and compare the best travel options.
 
 ### 🗂 Project Structure
 
